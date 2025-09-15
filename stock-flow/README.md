@@ -1,4 +1,4 @@
-# Low Stock Alert API
+# Stock Flow (Low Stock Alert API)
 
 A Spring Boot REST API that provides low-stock alerts for company inventory management across multiple warehouses. This service helps businesses proactively manage their inventory by identifying products that are running low on stock and need reordering.
 
@@ -33,8 +33,9 @@ A Spring Boot REST API that provides low-stock alerts for company inventory mana
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/dnyaneshagale/low-stock-alert-api.git
-   cd low-stock-alert-api
+   git clone https://github.com/dnyaneshagale/bynry-case-study-solution.git
+   cd bynry-case-study-solution
+   cd stock-flow
    
 2. **Build the application**
    ```bash
